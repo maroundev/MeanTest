@@ -7,7 +7,7 @@
     "method-override": "~2.0.2",
     "mongojs": "^0.18.1",
     "mongoose": "~3.8.0",
-    "homepage": "http://localhost:3000"
+    "homepage": "http://nameless-gorge-33548.herokuapp.com/"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
